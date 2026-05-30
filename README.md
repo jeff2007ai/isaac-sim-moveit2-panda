@@ -303,29 +303,6 @@ panda_arm_controller active
 
 ---
 
-## 📷 Screenshots
-
-### RViz Motion Planning
-
-Add image:
-
-```markdown
-![RViz Planning](screenshots/rviz_planning.png)
-```
-
-### Successful Execution
-
-```markdown
-![Execution](screenshots/execution_success.png)
-```
-
-### Isaac Sim Integration
-
-```markdown
-![Isaac Sim](screenshots/isaac_sim.png)
-```
-
----
 
 ## 📊 Key Lessons Learned
 

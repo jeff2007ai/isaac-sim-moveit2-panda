@@ -323,6 +323,20 @@ panda_arm_controller active
 
 ---
 
+## 🤝 Contributions
+
+This project is open to contributions from the robotics community.
+
+### Educational Partner
+
+<a href="https://robocademy.com" target="_blank">
+  <img src="https://img.shields.io/badge/RoboCademy-Robotics%20Learning-blue?style=for-the-badge" alt="RoboCademy">
+</a>
+
+Explore robotics, ROS 2, AI, embedded systems, simulation, and automation tutorials at **RoboCademy**.
+
+Contributions are welcome through pull requests and issue reports.
+
 ## 👨‍💻 Author
 
 **Jeffin G Joseph**

@@ -333,9 +333,8 @@ This project is open to contributions from the robotics community.
   <img src="https://img.shields.io/badge/RoboCademy-Robotics%20Learning-blue?style=for-the-badge" alt="RoboCademy">
 </a>
 
-Explore robotics, ROS 2, AI, embedded systems, simulation, and automation tutorials at **RoboCademy**.
+Explore robotics, ROS 2, AI, embedded systems, simulation, and automation tutorials at **Robocademy**.
 
-Contributions are welcome through pull requests and issue reports.
 
 ## 👨‍💻 Author
 

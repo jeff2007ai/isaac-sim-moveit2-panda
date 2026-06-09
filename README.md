@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/01a95f50-8ec0-43c7-b28b-11409e478674
+
 # MoveIt 2 + NVIDIA Isaac Sim Integration (ROS 2 Jazzy)
 
 A complete guide for integrating MoveIt 2 with NVIDIA Isaac Sim using ROS 2 Jazzy and the Franka Panda robot. This repository demonstrates motion planning, trajectory execution, ros2_control integration, controller debugging, and troubleshooting of execution failures.
